@@ -228,11 +228,11 @@ export const mockData = {
           "icon": "/sitelogo/www.v2ex.com.ico"
         },
         {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
+          "id": "Bing",
+          "name": "Bing",
+          "url": "https://www.bing.com/",
+          "description": "微软旗下搜索引擎",
+          "icon": "/sitelogo/www.bing.com.ico"
         }
       ]
     },
