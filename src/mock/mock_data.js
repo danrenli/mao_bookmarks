@@ -132,7 +132,7 @@ export const mockData = {
           "name": "企业邮箱",
           "url": "https://mail.zoho.com",
           "description": "企业邮箱",
-          "icon": "https://icons.duckduckgo.com/ip3/mail.zoho.com.ico/"
+          "icon": "https://favicon.im/mail.zoho.com/"
         },
         {
           "id": "PayPal",
