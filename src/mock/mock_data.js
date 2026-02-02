@@ -40,7 +40,7 @@ export const mockData = {
           "url": "https://learnenglish.britishcouncil.org/",
           "description": "英语水平测试；语法词汇等综合课程",
           "icon": "favicon.im/learnenglish.britishcouncil.org/"
-        }
+        },
       {
           "id": "site-1752644060499",
           "name": "vocabulary",
