@@ -171,25 +171,18 @@ export const mockData = {
           "icon": "https://icons.duckduckgo.com/ip3/explodingtopics.com.ico"
         },
         {
-          "id": "pinterest trend",
-          "name": "pinterest trend",
+          "id": "Pinterest Trend",
+          "name": "Pinterest Trend",
           "url": "https://trends.pinterest.com",
-          "description": "pinterest 提供的热搜",
+          "description": "Pinterest 提供的热搜",
           "icon": "https://icons.duckduckgo.com/ip3/trends.pinterest.com.ico"
         },
         {
           "id": "谷歌商机探测器",
           "name": "谷歌商机探测器",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "/sitelogo/developer.android.com.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
+          "url": "https://marketfinder.thinkwithgoogle.com",
+          "description": "Google 帮你寻找新的商机",
+          "icon": "/sitelogo/google.com.ico"
         }
       ]
     },
@@ -269,6 +262,13 @@ export const mockData = {
           "url": "https://www.tinypng.com/",
           "description": "图片压缩，格式转换",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+         {
+          "id": "upscayl",
+          "name": "upscayl",
+          "url": "https://upscayl.org/",
+          "description": "图片放大",
+          "icon": "https://icons.duckduckgo.com/ip3/upscayl.org.ico"
         }
       ]
     },
