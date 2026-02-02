@@ -15,31 +15,31 @@ export const mockData = {
         },
         {
           "id": "pronauns",
-          "name": "https://pronauns.com",
+          "name": "pronauns",
           "url": "https://pronauns.com",
           "description": "音标，单词发音和绕口令",
-          "icon": "favicon.im/pronauns.com"
+          "icon": "https://favicon.im/pronauns.com"
         },
         {
           "id": "site-1752857783656",
           "name": "language.exchange",
           "url": "language.exchange",
           "description": "语言交换",
-          "icon": "favicon.im/language.exchange"
+          "icon": "https://favicon.im/language.exchange"
         },
         {
           "id": "hemingwayapp",
           "name": "hemingwayapp",
           "url": "https://hemingwayapp.com/",
           "description": "帮你改英语文章",
-          "icon": "favicon.im/hemingwayapp.com/"
+          "icon": "https://favicon.im/hemingwayapp.com/"
         },
         {
           "id": "british council",
           "name": "british council",
           "url": "https://learnenglish.britishcouncil.org/",
           "description": "英语水平测试；语法词汇等综合课程",
-          "icon": "https://favicon.im/learnenglish.britishcouncil.org/"
+          "icon": "https://icons.duckduckgo.com/ip3/learnenglish.britishcouncil.org.ico/"
         },
         {
           "id": "Vocabulary",
@@ -95,7 +95,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "云服务",
+      "name": "外贸建站",
       "icon": "☁️",
       "order": 2,
       "sites": [
@@ -107,79 +107,79 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
+          "id": "SiteGround",
+          "name": "SiteGround",
+          "url": "https://siteground.com",
+          "description": "WordPress官方推荐的托管平台",
+          "icon": "https://icons.duckduckgo.com/ip3/siteground.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
+          "id": "Hostinger",
+          "name": "Hostinger",
+          "url": "https://Hostinger.com",
+          "description": "极具性价比的 WordPress 托管平台",
+          "icon": "https://icons.duckduckgo.com/ip3/Hostinger.com.ico"
         },
         {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
+          "id": "NameCheap",
+          "name": "NameCheap",
+          "url": "https://www.NameCheap.com",
+          "description": "购买域名",
+          "icon": "https://icons.duckduckgo.com/ip3/NameCheap.com.ico"
         },
         {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "id": " Zoho mail",
+          "name": "企业邮箱",
+          "url": "https://mail.zoho.com",
+          "description": "企业邮箱",
+          "icon": "https://icons.duckduckgo.com/ip3/mail.zoho.com/"
         },
         {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
+          "id": "PayPal",
+          "name": "PayPal",
+          "url": "https://www.PayPal.com",
+          "description": "外贸、独立站收款工具",
+          "icon": "https://icons.duckduckgo.com/ip3/paypal.com.ico"
         }
       ]
     },
     {
-      "id": "dev-tools",
-      "name": "开发工具",
+      "id": "data analysis",
+      "name": "数据分析",
       "icon": "🛠️",
       "order": 3,
       "sites": [
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "id": "Google Trend",
+          "name": "Google Trend",
+          "url": "https://trend.google.com",
+          "description": "Google 趋势",
+          "icon": "https://icons.duckduckgo.com/ip3/trend.google.com.ico"
         },
         {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
+          "id": "Statista",
+          "name": "Statista",
+          "url": "https://Statista.com",
+          "description": "多行业的数据报告",
+          "icon": "https://icons.duckduckgo.com/ip3/Statista.com.ico"
         },
         {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
+          "id": "explodingtopics",
+          "name": "explodingtopics",
+          "url": "https://explodingtopics.com/",
+          "description": "爆炸性话题",
+          "icon": "https://icons.duckduckgo.com/ip3/explodingtopics.com.ico"
         },
         {
-          "id": "postman",
-          "name": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "/sitelogo/www.postman.com.ico"
+          "id": "pinterest trend",
+          "name": "pinterest trend",
+          "url": "https://trends.pinterest.com",
+          "description": "pinterest 提供的热搜",
+          "icon": "https://icons.duckduckgo.com/ip3/trends.pinterest.com.ico"
         },
         {
-          "id": "android-studio",
-          "name": "Android Studio",
+          "id": "谷歌商机探测器",
+          "name": "谷歌商机探测器",
           "url": "https://developer.android.com/studio",
           "description": "Android官方开发工具",
           "icon": "/sitelogo/developer.android.com.ico"
@@ -238,23 +238,23 @@ export const mockData = {
     },
     {
       "id": "design",
-      "name": "设计工具",
+      "name": "图片相关",
       "icon": "🎨",
       "order": 4,
       "sites": [
         {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
+          "id": "Unsplash",
+          "name": "Unsplash",
+          "url": "https://Unsplash.com",
+          "description": "无版权图片资源",
+          "icon": "https://favicon.com/Unsplash.com"
         },
         {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
+          "id": "Photopea",
+          "name": "Photopea",
+          "url": "https://www.Photopea.com",
+          "description": "在线修图",
+          "icon": "https://icons.duckduckgo.com/ip3/Photopea.com.ico"
         },
         {
           "id": "canva",
@@ -264,11 +264,11 @@ export const mockData = {
           "icon": "/sitelogo/www.canva.com.ico"
         },
         {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
+          "id": "tinypng",
+          "name": "tinypng",
+          "url": "https://www.tinypng.com/",
           "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
+          "icon": "https://icons.duckduckgo.com/ip3/www.tinypng.com.ico"
         }
       ]
     },
