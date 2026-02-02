@@ -46,7 +46,7 @@ export const mockData = {
           "name": "Vocabulary",
           "url": "https://www.vocabulary.com/",
           "description": "在线词典",
-          "icon": "https://favicon.im/vocabulary.com"
+          "icon": "https://favicon.im/vocabulary.com/"
         }
       ]
     },
@@ -340,7 +340,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
