@@ -39,14 +39,14 @@ export const mockData = {
           "name": "british council",
           "url": "https://learnenglish.britishcouncil.org/",
           "description": "英语水平测试；语法词汇等综合课程",
-          "icon": "favicon.im/learnenglish.britishcouncil.org/"
+          "icon": "https://favicon.im/learnenglish.britishcouncil.org/"
         },
-      {
-          "id": "site-1752644060499",
-          "name": "vocabulary",
+        {
+          "id": "Vocabulary",
+          "name": "Vocabulary",
           "url": "https://www.vocabulary.com/",
           "description": "在线词典",
-          "icon": "favicon.im/vocabulary.com"
+          "icon": "https://favicon.im/vocabulary.com"
         }
       ]
     },
@@ -140,7 +140,7 @@ export const mockData = {
           "url": "https://www.huaweicloud.com",
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
+        }
       ]
     },
     {
