@@ -23,7 +23,7 @@ export const mockData = {
         {
           "id": "site-1752857783656",
           "name": "language.exchange",
-          "url": "language.exchange",
+          "url": "https://language.exchange",
           "description": "语言交换",
           "icon": "https://favicon.im/language.exchange"
         },
@@ -38,8 +38,8 @@ export const mockData = {
           "id": "british council",
           "name": "british council",
           "url": "https://learnenglish.britishcouncil.org/",
-          "description": "英语水平测试；语法词汇等综合课程",
-          "icon": "https://icons.duckduckgo.com/ip3/learnenglish.britishcouncil.org.ico/"
+          "description": "水平测试；语法词汇等课程",
+          "icon": "https://icons.duckduckgo.com/ip3/britishcouncil.org.ico/"
         },
         {
           "id": "Vocabulary",
@@ -109,14 +109,14 @@ export const mockData = {
         {
           "id": "SiteGround",
           "name": "SiteGround",
-          "url": "https://siteground.com",
-          "description": "WordPress官方推荐的托管平台",
+          "url": "https://bit.ly/4j5hk3C",
+          "description": "WordPress 官方推荐的托管平台",
           "icon": "https://icons.duckduckgo.com/ip3/siteground.com.ico"
         },
         {
           "id": "Hostinger",
           "name": "Hostinger",
-          "url": "https://Hostinger.com",
+          "url": "https://bit.ly/433MOR9",
           "description": "极具性价比的 WordPress 托管平台",
           "icon": "https://icons.duckduckgo.com/ip3/Hostinger.com.ico"
         },
@@ -132,7 +132,7 @@ export const mockData = {
           "name": "企业邮箱",
           "url": "https://mail.zoho.com",
           "description": "企业邮箱",
-          "icon": "https://icons.duckduckgo.com/ip3/mail.zoho.com/"
+          "icon": "https://icons.duckduckgo.com/ip3/mail.zoho.com.ico/"
         },
         {
           "id": "PayPal",
@@ -247,7 +247,7 @@ export const mockData = {
           "name": "Unsplash",
           "url": "https://Unsplash.com",
           "description": "无版权图片资源",
-          "icon": "https://favicon.com/Unsplash.com"
+          "icon": "https://favicon.im/Unsplash.com"
         },
         {
           "id": "Photopea",
@@ -267,8 +267,8 @@ export const mockData = {
           "id": "tinypng",
           "name": "tinypng",
           "url": "https://www.tinypng.com/",
-          "description": "用户体验设计工具",
-          "icon": "https://icons.duckduckgo.com/ip3/www.tinypng.com.ico"
+          "description": "图片压缩，格式转换",
+          "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
     },
