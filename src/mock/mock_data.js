@@ -152,9 +152,9 @@ export const mockData = {
         {
           "id": "Google Trend",
           "name": "Google Trend",
-          "url": "https://trend.google.com",
+          "url": "https://trends.google.com",
           "description": "Google 趋势",
-          "icon": "https://icons.duckduckgo.com/ip3/trend.google.com.ico"
+          "icon": "https://icons.duckduckgo.com/ip3/google.com.ico"
         },
         {
           "id": "Statista",
@@ -182,7 +182,7 @@ export const mockData = {
           "name": "谷歌商机探测器",
           "url": "https://marketfinder.thinkwithgoogle.com",
           "description": "Google 帮你寻找新的商机",
-          "icon": "/sitelogo/google.com.ico"
+          "icon": "https://icons.duckduckgo.com/ip3/google.com.ico"
         }
       ]
     },
