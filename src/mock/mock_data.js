@@ -2,44 +2,51 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
+      "name": "英语学习",
       "icon": "💥",
       "order": 0,
       "sites": [
         {
           "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "name": "Linguno",
+          "url": "https://www.linguno.com/",
+          "description": "英语听力练习",
+          "icon": "https://icons.duckduckgo.com/ip3/www.linguno.com.ico"
         },
         {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
+          "id": "pronauns",
+          "name": "https://pronauns.com",
+          "url": "https://pronauns.com",
+          "description": "音标，单词发音和绕口令",
+          "icon": "favicon.im/pronauns.com"
         },
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "name": "language.exchange",
+          "url": "language.exchange",
+          "description": "语言交换",
+          "icon": "favicon.im/language.exchange"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "id": "hemingwayapp",
+          "name": "hemingwayapp",
+          "url": "https://hemingwayapp.com/",
+          "description": "帮你改英语文章",
+          "icon": "favicon.im/hemingwayapp.com/"
         },
         {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "id": "british council",
+          "name": "british council",
+          "url": "https://learnenglish.britishcouncil.org/",
+          "description": "英语水平测试；语法词汇等综合课程",
+          "icon": "favicon.im/learnenglish.britishcouncil.org/"
+        }
+      {
+          "id": "site-1752644060499",
+          "name": "vocabulary",
+          "url": "https://www.vocabulary.com/",
+          "description": "在线词典",
+          "icon": "favicon.im/vocabulary.com"
         }
       ]
     },
@@ -134,13 +141,6 @@ export const mockData = {
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
         },
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
-        }
       ]
     },
     {
