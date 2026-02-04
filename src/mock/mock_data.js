@@ -11,21 +11,21 @@ export const mockData = {
           "name": "Linguno",
           "url": "https://www.linguno.com/",
           "description": "英语听力练习",
-          "icon": "https://icons.duckduckgo.com/ip3/www.linguno.com.ico"
+          "icon": "https://favicon.im/www.linguno.com?larger=true"
         },
         {
           "id": "pronauns",
           "name": "pronauns",
           "url": "https://pronauns.com",
           "description": "音标，单词发音和绕口令",
-          "icon": "https://favicon.im/pronauns.com"
+          "icon": "https://favicon.im/pronauns.com?larger=true"
         },
         {
           "id": "site-1752857783656",
           "name": "language.exchange",
           "url": "https://language.exchange",
           "description": "语言交换",
-          "icon": "https://favicon.im/language.exchange"
+          "icon": "https://favicon.im/language.exchange?larger=true"
         },
         {
           "id": "hemingwayapp",
@@ -111,7 +111,7 @@ export const mockData = {
           "name": "SiteGround",
           "url": "https://bit.ly/4j5hk3C",
           "description": "WordPress 官方推荐的托管平台",
-          "icon": "https://icons.duckduckgo.com/ip3/siteground.com.ico"
+          "icon": "https://favicon.im/siteground.com?larger=true"
         },
         {
           "id": "Hostinger",
@@ -132,7 +132,7 @@ export const mockData = {
           "name": "企业邮箱",
           "url": "https://mail.zoho.com",
           "description": "企业邮箱",
-          "icon": "https://favicon.im/mail.zoho.com/"
+          "icon": "https://favicon.im/mail.zoho.com?larger=true/"
         },
         {
           "id": "PayPal",
@@ -379,32 +379,32 @@ export const mockData = {
       "order": 7,
       "sites": [
         {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
+          "id": "market info",
+          "name": "market info",
+          "url": "https://www.mfa.gov.cn/web/gjhdq_676201/",
+          "description": "外交部提供的国家概况信息",
+          "icon": "/sitelogo/www.bing.com.ico"
         },
         {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
+          "id": "fec.mofcom",
+          "name": "走出去公共服务平台",
+          "url": "http://fec.mofcom.gov.cn/",
+          "description": "商务部提供的信息",
           "icon": "/sitelogo/regex101.com.ico"
         },
         {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
+          "id": "The World Factbook",
+          "name": "The World Factbook",
+          "url": "https://factbook.github.io/",
+          "description": "The World Factbook",
+          "icon": "https://icons.duckduckgo.com/ip3/factbook.github.io.ico/"
         },
         {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
+          "id": "hts.usitc.gov",
+          "name": "hts.usitc.gov",
+          "url": "https://hts.usitc.gov",
+          "description": "美国关税查询",
+          "icon": "https://icons.duckduckgo.com/ip3/hts.usitc.gov.ico"
         }
       ]
     },
@@ -440,7 +440,7 @@ export const mockData = {
           "name": "知乎",
           "url": "https://www.zhihu.com",
           "description": "知识问答社区",
-          "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
+          "icon": "https://favicon.im/zhihu.com"
         }
       ]
     },
